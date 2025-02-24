@@ -1,0 +1,1 @@
+So here we took Nikola Tesla's patent 47012 and we entered a CPU usage button creating a whole new machine this way. you can try your own experiments though enjoy!(In order to execute you must have both .png and .py file on the same folder)
